@@ -49,14 +49,13 @@ This is a Django web app
 
 * ```pip3 install django```
 * ```pip3 install djangorestframework```
-
+* ```pip install -r requirements.txt```
 
 
 
 ## Resources:
 
 * [django tutorial](https://rapidapi.com/blog/python-django-rest-api-tutorial/) 
-
 
 
 ## Library/Package:
