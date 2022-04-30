@@ -47,10 +47,8 @@ This is a Django web app
 
 ## Requirements:
 
+* ```pip3 install django```
 * ```pip3 install djangorestframework```
-* ```python3 manage.py migrate```
-* ```python3 manage.py makemigrations```
-
 
 
 
