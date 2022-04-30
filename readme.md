@@ -1,4 +1,4 @@
-# Coin Market Cap Scraper
+# Django
 
 ## INTRODUCTION
 This is a Django web app
